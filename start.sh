@@ -1,5 +1,5 @@
 #!/bin/bash
-node=public.turtlenode.io
+node=192.99.206.62
 
 clear
 echo ""
@@ -24,10 +24,10 @@ start_box_turtle () {
 
 if [ -e "./scripts/${walletname}" ]
 then
-  start_turtle_service
+  start_Grub_service
   start_box_turtle
 else
   create_new_wallet
-  start_turtle_service
+  start_Grub_service
   start_box_turtle
 fi;
