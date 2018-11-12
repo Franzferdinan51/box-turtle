@@ -1,6 +1,6 @@
 var config =
 {
-    "host" : "192.99.206.62",
+    "host" : "127.0.0.1",
     "port" : 11898,
     "rpcPassword" : "5150",
     "mixin" : 7,
