@@ -1,8 +1,8 @@
 var config =
 {
-    "host" : "localhost",
+    "host" : "192.99.206.62",
     "port" : 11898,
-    "rpcPassword" : "test",
+    "rpcPassword" : "5150",
     "mixin" : 7,
     "addressLength" : 98,
     "integratedLength" : 187,
